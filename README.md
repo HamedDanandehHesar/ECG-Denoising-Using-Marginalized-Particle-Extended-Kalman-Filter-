@@ -1,3 +1,4 @@
+<img width="560" height="420" alt="untitled" src="https://github.com/user-attachments/assets/efdfa7db-6839-44fb-b417-15ef7a7306f4" />
  
 # ECG Denoising using Marginalized Particle Extended Kalman Filter (MP‑EKF)
 
